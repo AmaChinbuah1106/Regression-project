@@ -3,7 +3,8 @@
 
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
-|-----------|-------------|:-------------:|------:|
+|-----------|-------------|:-------------:|https://app.powerbi.com/groups/me/reports/9c1e469c-7cce-4e33-8231-1aaab324e0c8
+https://app.powerbi.com/groups/me/datasets/c673e0a1-1413-482a-9dc2-ce608b4f50b1/details------:|
 | LP 2      | Regression Project |  https://medium.com/aboagyewachinbuah11/a-predictive-analysis-on-sales-using-regression-corporation-favorita-d3ca54cfd43e | [Best app of the world](/) |
 
 ## Project Description
